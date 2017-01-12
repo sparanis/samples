@@ -1,0 +1,1028 @@
+[04-Feb-2015 06:02:07 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 50
+[04-Feb-2015 06:02:09 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 50
+[04-Feb-2015 06:02:15 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 50
+[04-Feb-2015 06:10:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:31 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:10:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 06:30:44 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:30:48 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:31:00 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:31:03 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:32:19 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:32:20 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:32:21 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:32:22 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:32:31 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 06:48:02 UTC] PHP Parse error:  syntax error, unexpected ''scope'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 45
+[04-Feb-2015 06:48:09 UTC] PHP Parse error:  syntax error, unexpected ''scope'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 45
+[04-Feb-2015 07:45:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 47
+[04-Feb-2015 08:07:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 49
+[04-Feb-2015 08:29:47 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 08:51:22 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 08:52:40 UTC] PHP Fatal error:  Call to a member function destroySession() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 66
+[04-Feb-2015 08:59:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 67
+[04-Feb-2015 09:10:55 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 09:11:13 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 09:12:14 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 09:15:29 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 09:16:37 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 09:17:30 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 09:21:14 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 09:23:42 UTC] CSRF state token does not match one provided.
+[04-Feb-2015 09:24:32 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 02:07:11 UTC] PHP Fatal error:  Call to undefined function redirect_uri() in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 02:07:12 UTC] PHP Fatal error:  Call to undefined function redirect_uri() in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 02:07:26 UTC] PHP Fatal error:  Call to undefined function redirect_uri() in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 02:07:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 46
+[05-Feb-2015 02:07:30 UTC] PHP Fatal error:  Call to undefined function redirect_url() in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 02:07:31 UTC] PHP Fatal error:  Call to undefined function redirect_url() in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 02:07:40 UTC] PHP Fatal error:  Call to undefined function redirect_url() in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 02:38:42 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 02:38:47 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 02:39:32 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 03:12:03 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 03:12:42 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 03:12:42 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 03:12:59 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 03:12:59 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 03:16:51 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 03:34:42 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:34:44 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:34:45 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:34:50 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:34:51 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:35:30 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:35:31 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:36:17 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:36:18 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 4
+[05-Feb-2015 03:36:21 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:36:23 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:36:26 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:37:51 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:37:52 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:37:53 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:37:54 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:37:55 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:37:56 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 7
+[05-Feb-2015 03:40:11 UTC] PHP Fatal error:  Call to a member function destroy_fb_session() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 03:40:55 UTC] PHP Fatal error:  Call to a member function destroy_fb_session() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 03:41:01 UTC] PHP Fatal error:  Call to a member function destroy_fb_session() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 03:41:29 UTC] PHP Fatal error:  Call to a member function destroy_fb_session() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 03:41:30 UTC] PHP Fatal error:  Call to a member function destroy_fb_session() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 03:41:57 UTC] PHP Fatal error:  Call to a member function destroy_fb_session() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 62
+[05-Feb-2015 03:58:40 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 04:00:03 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 04:00:07 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 04:00:12 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 04:15:14 UTC] CSRF state token does not match one provided.
+[05-Feb-2015 06:11:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'application//third_party/OAuth.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/featheringrey/public_html/spotch/application/libraries/Twitteroauth.php on line 10
+[05-Feb-2015 06:13:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'application//third_party/OAuth.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/featheringrey/public_html/spotch/application/libraries/Twitteroauth.php on line 10
+[05-Feb-2015 07:04:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 32
+[05-Feb-2015 07:04:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 32
+[05-Feb-2015 07:04:40 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 32
+[05-Feb-2015 07:04:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 32
+[05-Feb-2015 07:04:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 32
+[05-Feb-2015 07:04:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 32
+[05-Feb-2015 07:05:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 33
+[05-Feb-2015 07:05:19 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 33
+[05-Feb-2015 07:05:20 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 33
+[05-Feb-2015 07:05:21 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 33
+[05-Feb-2015 07:28:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/featheringrey/public_html/spotch/application/models/user_model.php on line 9
+[05-Feb-2015 07:29:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/featheringrey/public_html/spotch/application/models/user_model.php on line 9
+[05-Feb-2015 07:38:17 UTC] CSRF state token does not match one provided.
+[06-Feb-2015 01:08:04 UTC] CSRF state token does not match one provided.
+[10-Feb-2015 09:15:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/views/includes/footer.php on line 227
+[10-Feb-2015 09:15:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/featheringrey/public_html/spotch/application/views/includes/footer.php on line 227
+[23-Feb-2015 03:04:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 71
+[23-Feb-2015 03:10:21 UTC] PHP Fatal error:  Call to a member function save_team() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 99
+[23-Feb-2015 03:10:38 UTC] PHP Fatal error:  Call to a member function save_team() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 99
+[23-Feb-2015 03:36:21 UTC] PHP Fatal error:  Call to a member function save_team() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 99
+[23-Feb-2015 04:08:39 UTC] PHP Fatal error:  Call to undefined method Spotch_model::save_image() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 192
+[23-Feb-2015 05:08:56 UTC] CSRF state token does not match one provided.
+[23-Feb-2015 05:09:05 UTC] CSRF state token does not match one provided.
+[23-Feb-2015 05:09:54 UTC] CSRF state token does not match one provided.
+[23-Feb-2015 05:10:30 UTC] CSRF state token does not match one provided.
+[23-Feb-2015 05:10:31 UTC] CSRF state token does not match one provided.
+[23-Feb-2015 05:10:33 UTC] CSRF state token does not match one provided.
+[25-Feb-2015 07:30:48 UTC] CSRF state token does not match one provided.
+[25-Feb-2015 07:37:29 UTC] CSRF state token does not match one provided.
+[25-Feb-2015 08:10:49 UTC] CSRF state token does not match one provided.
+[25-Feb-2015 08:23:41 UTC] CSRF state token does not match one provided.
+[27-Feb-2015 07:29:34 UTC] CSRF state token does not match one provided.
+[02-Mar-2015 01:49:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 60
+[02-Mar-2015 01:49:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 60
+[02-Mar-2015 01:50:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 60
+[02-Mar-2015 01:50:32 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::resul() in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 44
+[02-Mar-2015 01:50:34 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::resul() in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 44
+[02-Mar-2015 01:50:35 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::resul() in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 44
+[02-Mar-2015 01:50:37 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::resul() in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 44
+[02-Mar-2015 01:50:53 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::resul() in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 44
+[02-Mar-2015 01:55:07 UTC] PHP Parse error:  syntax error, unexpected '$html' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 68
+[02-Mar-2015 01:56:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 123
+[02-Mar-2015 02:21:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 115
+[02-Mar-2015 02:21:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 115
+[02-Mar-2015 02:21:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 115
+[02-Mar-2015 02:46:23 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_featured() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 58
+[02-Mar-2015 02:46:25 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_featured() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 58
+[02-Mar-2015 03:00:13 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 126
+[02-Mar-2015 03:00:16 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 126
+[02-Mar-2015 03:00:28 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 126
+[02-Mar-2015 03:14:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 85
+[02-Mar-2015 03:19:16 UTC] PHP Parse error:  syntax error, unexpected ''<div class="list-d' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 85
+[02-Mar-2015 05:18:09 UTC] CSRF state token does not match one provided.
+[02-Mar-2015 06:10:52 UTC] CSRF state token does not match one provided.
+[02-Mar-2015 06:11:17 UTC] CSRF state token does not match one provided.
+[02-Mar-2015 06:41:52 UTC] PHP Fatal error:  Cannot access empty property in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 145
+[02-Mar-2015 06:41:54 UTC] PHP Fatal error:  Cannot access empty property in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 145
+[02-Mar-2015 06:47:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 89
+[04-Mar-2015 02:40:38 UTC] CSRF state token does not match one provided.
+[04-Mar-2015 02:46:37 UTC] CSRF state token does not match one provided.
+[04-Mar-2015 03:21:25 UTC] CSRF state token does not match one provided.
+[04-Mar-2015 04:14:58 UTC] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/featheringrey/public_html/spotch/application/views/create_game.php on line 60
+[04-Mar-2015 04:15:13 UTC] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/featheringrey/public_html/spotch/application/views/create_game.php on line 60
+[04-Mar-2015 04:15:38 UTC] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/featheringrey/public_html/spotch/application/views/create_game.php on line 60
+[04-Mar-2015 04:16:02 UTC] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/featheringrey/public_html/spotch/application/views/create_game.php on line 60
+[04-Mar-2015 05:32:50 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 76
+[04-Mar-2015 05:32:51 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 76
+[04-Mar-2015 05:32:57 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 76
+[04-Mar-2015 05:37:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:37:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:37:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:37:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:37:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:38:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 05:43:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 100
+[04-Mar-2015 06:24:46 UTC] PHP Parse error:  syntax error, unexpected ''.$prefecture_entry->location_' (T_CONSTANT_ENCAPSED_STRING) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 06:24:47 UTC] PHP Parse error:  syntax error, unexpected ''.$prefecture_entry->location_' (T_CONSTANT_ENCAPSED_STRING) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 06:24:49 UTC] PHP Parse error:  syntax error, unexpected ''.$prefecture_entry->location_' (T_CONSTANT_ENCAPSED_STRING) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 81
+[04-Mar-2015 06:25:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 267
+[04-Mar-2015 08:53:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 246
+[05-Mar-2015 01:22:06 UTC] PHP Parse error:  syntax error, unexpected ''prefe' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 102
+[05-Mar-2015 01:33:59 UTC] PHP Parse error:  syntax error, unexpected ''prefe' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 102
+[05-Mar-2015 01:38:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 197
+[05-Mar-2015 01:38:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 197
+[05-Mar-2015 01:39:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 197
+[05-Mar-2015 01:39:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 197
+[05-Mar-2015 01:40:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 197
+[05-Mar-2015 01:40:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 197
+[05-Mar-2015 01:40:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 197
+[05-Mar-2015 01:40:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 197
+[05-Mar-2015 01:56:56 UTC] PHP Parse error:  syntax error, unexpected 'fu' (T_STRING), expecting variable (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 172
+[05-Mar-2015 02:10:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 109
+[05-Mar-2015 02:10:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 109
+[05-Mar-2015 02:11:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 109
+[05-Mar-2015 02:18:06 UTC] PHP Parse error:  syntax error, unexpected 'fun' (T_STRING), expecting variable (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 178
+[05-Mar-2015 02:19:14 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[05-Mar-2015 02:26:41 UTC] PHP Fatal error:  Call to undefined method Location_model::get_city_name() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 121
+[05-Mar-2015 02:26:43 UTC] PHP Fatal error:  Call to undefined method Location_model::get_city_name() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 121
+[05-Mar-2015 02:31:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 253
+[05-Mar-2015 03:59:19 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 523
+[05-Mar-2015 04:17:52 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:20:02 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:21:32 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:21:36 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:21:51 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:22:26 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:24:50 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:25:18 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:25:28 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:25:31 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:25:35 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:26:42 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:26:57 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 04:27:22 UTC] CSRF state token does not match one provided.
+[05-Mar-2015 05:07:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 91
+[05-Mar-2015 05:41:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 45
+[08-Mar-2015 14:59:32 UTC] CSRF state token does not match one provided.
+[13-Mar-2015 03:00:14 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 113
+[13-Mar-2015 03:03:05 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 152
+[13-Mar-2015 03:03:08 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 152
+[13-Mar-2015 03:03:22 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 152
+[13-Mar-2015 03:03:26 UTC] PHP Parse error:  syntax error, unexpected '25' (T_LNUMBER) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 157
+[13-Mar-2015 03:03:28 UTC] PHP Parse error:  syntax error, unexpected '25' (T_LNUMBER) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 157
+[13-Mar-2015 03:13:04 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 157
+[13-Mar-2015 03:13:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 94
+[13-Mar-2015 03:13:22 UTC] PHP Parse error:  syntax error, unexpected ''<div class="game">' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 140
+[13-Mar-2015 03:14:07 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 226
+[13-Mar-2015 03:35:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 195
+[13-Mar-2015 05:56:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 98
+[13-Mar-2015 06:06:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 127
+[13-Mar-2015 06:06:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 127
+[13-Mar-2015 06:06:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 127
+[13-Mar-2015 06:06:38 UTC] PHP Parse error:  syntax error, unexpected '$html' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 131
+[13-Mar-2015 06:06:39 UTC] PHP Parse error:  syntax error, unexpected '$html' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 131
+[13-Mar-2015 06:06:40 UTC] PHP Parse error:  syntax error, unexpected '$html' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 131
+[13-Mar-2015 07:28:56 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_my_game() in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 229
+[13-Mar-2015 07:57:27 UTC] PHP Parse error:  syntax error, unexpected ''<td data-value="2" class="foo' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 276
+[13-Mar-2015 07:57:36 UTC] PHP Parse error:  syntax error, unexpected ''<td data-value="2" class="foo' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 276
+[13-Mar-2015 07:57:56 UTC] PHP Parse error:  syntax error, unexpected ''<td data-value="2" class="foo' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 276
+[13-Mar-2015 07:57:56 UTC] PHP Parse error:  syntax error, unexpected ''<td data-value="2" class="foo' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 276
+[13-Mar-2015 07:57:58 UTC] PHP Parse error:  syntax error, unexpected ''<td data-value="2" class="foo' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 276
+[17-Mar-2015 02:35:31 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/featheringrey/public_html/spotch/application/views/find_game.php on line 135
+[17-Mar-2015 02:35:33 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/featheringrey/public_html/spotch/application/views/find_game.php on line 135
+[17-Mar-2015 02:35:34 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/featheringrey/public_html/spotch/application/views/find_game.php on line 135
+[17-Mar-2015 02:35:40 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/featheringrey/public_html/spotch/application/views/find_game.php on line 135
+[17-Mar-2015 02:35:43 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/featheringrey/public_html/spotch/application/views/find_game.php on line 135
+[17-Mar-2015 02:35:59 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/featheringrey/public_html/spotch/application/views/find_game.php on line 132
+[17-Mar-2015 02:36:02 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/featheringrey/public_html/spotch/application/views/find_game.php on line 132
+[17-Mar-2015 05:26:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 96
+[17-Mar-2015 06:03:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 260
+[17-Mar-2015 06:21:52 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 280
+[17-Mar-2015 06:39:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:40:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:40:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:40:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:40:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:43:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:43:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:43:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:43:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:44:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:44:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 347
+[17-Mar-2015 06:46:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 348
+[17-Mar-2015 06:46:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 348
+[17-Mar-2015 06:53:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 413
+[17-Mar-2015 08:08:26 UTC] CSRF state token does not match one provided.
+[18-Mar-2015 06:55:48 UTC] CSRF state token does not match one provided.
+[20-Mar-2015 05:14:00 UTC] CSRF state token does not match one provided.
+[20-Mar-2015 05:14:00 UTC] CSRF state token does not match one provided.
+[20-Mar-2015 05:14:03 UTC] CSRF state token does not match one provided.
+[20-Mar-2015 09:54:00 UTC] CSRF state token does not match one provided.
+[23-Mar-2015 02:56:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 397
+[23-Mar-2015 03:04:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 89
+[23-Mar-2015 03:18:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 89
+[23-Mar-2015 03:20:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 89
+[23-Mar-2015 03:28:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 89
+[23-Mar-2015 04:25:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 102
+[23-Mar-2015 04:25:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 102
+[23-Mar-2015 04:55:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 89
+[23-Mar-2015 04:57:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 110
+[23-Mar-2015 04:57:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 110
+[23-Mar-2015 04:57:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 110
+[23-Mar-2015 04:57:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 110
+[23-Mar-2015 05:16:15 UTC] PHP Parse error:  syntax error, unexpected '' <li >' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 41
+[23-Mar-2015 05:17:25 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:17:29 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:17:46 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:17:50 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:17:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:18:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:19:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[23-Mar-2015 05:19:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 89
+[23-Mar-2015 05:44:44 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:44:45 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:44:46 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:44:48 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:44:51 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:06 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:08 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:09 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:26 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:28 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:29 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:29 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:29 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:29 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:30 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:30 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:32 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:35 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:45:44 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:08 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:09 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:10 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:11 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:16 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:19 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:21 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:34 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:43 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:45 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:45 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:51 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:52 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:46:53 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:47:03 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:47:07 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:47:14 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 174
+[23-Mar-2015 05:49:57 UTC] PHP Parse error:  syntax error, unexpected '$result_by_date' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 111
+[23-Mar-2015 05:50:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 110
+[23-Mar-2015 05:50:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 110
+[23-Mar-2015 05:50:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 110
+[23-Mar-2015 06:06:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 89
+[23-Mar-2015 08:04:34 UTC] PHP Parse error:  syntax error, unexpected ''<div cla' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 144
+[23-Mar-2015 08:19:44 UTC] CSRF state token does not match one provided.
+[24-Mar-2015 01:49:12 UTC] CSRF state token does not match one provided.
+[24-Mar-2015 02:09:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/featheringrey/public_html/spotch/application/views/team_details.php on line 190
+[24-Mar-2015 02:46:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/views/account.php on line 208
+[24-Mar-2015 02:46:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/views/account.php on line 208
+[24-Mar-2015 02:47:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/views/account.php on line 208
+[24-Mar-2015 03:20:02 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_game_by_id() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 41
+[24-Mar-2015 03:20:04 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_game_by_id() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 41
+[24-Mar-2015 03:20:19 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_game_by_id() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 41
+[24-Mar-2015 03:20:20 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_game_by_id() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 41
+[24-Mar-2015 03:20:20 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_game_by_id() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 41
+[24-Mar-2015 03:20:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_game_by_id() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 41
+[24-Mar-2015 03:20:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_game_by_id() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 41
+[24-Mar-2015 03:25:57 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 78
+[24-Mar-2015 05:19:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 181
+[24-Mar-2015 05:34:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 89
+[24-Mar-2015 05:34:49 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 156
+[24-Mar-2015 05:35:55 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 156
+[24-Mar-2015 05:35:58 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 156
+[24-Mar-2015 05:36:00 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 156
+[24-Mar-2015 05:36:05 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 156
+[24-Mar-2015 05:37:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 510
+[24-Mar-2015 06:07:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 233
+[24-Mar-2015 06:09:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 187
+[24-Mar-2015 06:13:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 321
+[24-Mar-2015 06:16:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 89
+[24-Mar-2015 06:45:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 188
+[24-Mar-2015 06:55:52 UTC] PHP Parse error:  syntax error, unexpected ''team_de' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 145
+[24-Mar-2015 06:57:23 UTC] PHP Parse error:  syntax error, unexpected '$city' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 48
+[24-Mar-2015 06:57:25 UTC] PHP Parse error:  syntax error, unexpected '$city' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 48
+[24-Mar-2015 06:57:27 UTC] PHP Parse error:  syntax error, unexpected '$city' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 48
+[24-Mar-2015 06:57:29 UTC] PHP Parse error:  syntax error, unexpected '$city' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 48
+[24-Mar-2015 06:57:39 UTC] PHP Parse error:  syntax error, unexpected '$city' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 48
+[24-Mar-2015 06:57:41 UTC] PHP Parse error:  syntax error, unexpected ''<br><button class="btn btn-bl' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 322
+[24-Mar-2015 07:09:46 UTC] PHP Parse error:  syntax error, unexpected ''" alt="..." class="l' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 89
+[24-Mar-2015 07:10:01 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[24-Mar-2015 07:47:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 370
+[25-Mar-2015 02:16:38 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[25-Mar-2015 02:16:38 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[25-Mar-2015 02:16:40 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 187
+[25-Mar-2015 02:16:43 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 187
+[25-Mar-2015 02:16:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting identifier (T_STRING) in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 187
+[25-Mar-2015 02:21:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 186
+[25-Mar-2015 02:22:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 90
+[25-Mar-2015 02:32:53 UTC] PHP Parse error:  syntax error, unexpected ''team_actions'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/featheringrey/public_html/spotch/application/views/team_details.php on line 166
+[25-Mar-2015 02:35:24 UTC] PHP Fatal error:  Call to a member function get_user() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 244
+[25-Mar-2015 02:35:26 UTC] PHP Fatal error:  Call to a member function get_user() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 244
+[25-Mar-2015 02:35:38 UTC] PHP Fatal error:  Call to a member function get_user() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 244
+[25-Mar-2015 03:03:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 68
+[25-Mar-2015 03:51:56 UTC] PHP Parse error:  syntax error, unexpected '' <li >' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 42
+[25-Mar-2015 06:51:25 UTC] CSRF state token does not match one provided.
+[25-Mar-2015 07:00:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 187
+[25-Mar-2015 07:09:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:09:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:09:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:10:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:10:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:10:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:10:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:10:40 UTC] PHP Parse error:  syntax error, unexpected ''<' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 73
+[25-Mar-2015 07:10:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:10:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 265
+[25-Mar-2015 07:15:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 72
+[25-Mar-2015 07:33:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 73
+[25-Mar-2015 07:40:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 51
+[26-Mar-2015 08:44:44 UTC] CSRF state token does not match one provided.
+[06-Apr-2015 03:15:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 91
+[06-Apr-2015 03:16:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 187
+[06-Apr-2015 03:17:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 91
+[09-Apr-2015 03:22:40 UTC] PHP Parse error:  syntax error, unexpected ''" class="inquire" data-toggle' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 137
+[09-Apr-2015 03:31:27 UTC] PHP Parse error:  syntax error, unexpected ''" class="inquire" data-toggle' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 137
+[09-Apr-2015 04:21:10 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:22:49 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:23:17 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:26:56 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 447
+[09-Apr-2015 04:29:07 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:30:36 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:50:20 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:52:12 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:52:15 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:52:42 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:52:46 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:53:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:53:23 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 04:53:23 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:53:37 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:53:40 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:53:50 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:53:52 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:53:54 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:55:02 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 04:55:06 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:00:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:00:48 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:00:51 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:01:14 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:01:16 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:02:02 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:02:12 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:02:15 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:02:28 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:02:31 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:03:11 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:03:14 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:03:17 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:03:30 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:03:37 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:04:08 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:04:32 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:04:38 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:05:50 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:05:52 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:05:53 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:06:41 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:08:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:08:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:09:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:09:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:09:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:09:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 405
+[09-Apr-2015 05:09:20 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:10:01 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:10:41 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:12:43 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:13:45 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:14:07 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:15:12 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:15:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:15:34 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:15:40 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:16:20 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:16:43 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:17:17 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:17:28 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:17:29 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:17:32 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:18:12 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:18:42 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:19:04 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:20:38 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:20:39 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:20:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 86
+[09-Apr-2015 05:20:59 UTC] PHP Fatal error:  Cannot access empty property in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 497
+[09-Apr-2015 05:21:01 UTC] PHP Fatal error:  Cannot access empty property in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 497
+[09-Apr-2015 05:21:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 548
+[09-Apr-2015 05:21:26 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:22:50 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:25:03 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:25:26 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:25:58 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:27:57 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:31:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:33:50 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:36:43 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:39:30 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:39:52 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:41:05 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:41:54 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:42:05 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:43:09 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:46:14 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:47:24 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:52:32 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:53:19 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:54:32 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:54:34 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:55:54 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 05:57:17 UTC] PHP Fatal error:  Call to undefined method Spotch_model::order_by() in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 223
+[09-Apr-2015 05:57:38 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:01:19 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:01:23 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:02:35 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:02:40 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:02:44 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:03:01 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:03:03 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:08:03 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:08:54 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:10:06 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:10:15 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:12:02 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:12:41 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:13:39 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:15:30 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:25:57 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:25:59 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:30:08 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:30:10 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:34:40 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:34:42 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:34:45 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:34:50 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:34:52 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:34:57 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:35:02 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:35:16 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:35:25 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:36:22 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:36:31 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:37:01 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:37:12 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:37:16 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:37:18 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:37:18 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:37:22 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:37:32 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:37:42 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:39:10 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:39:19 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:39:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:39:24 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:40:10 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:40:30 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:44:08 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:44:09 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:44:12 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:45:07 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:45:39 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:45:47 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:45:47 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:45:53 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:45:53 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:45:56 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:45:57 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:46:04 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:46:06 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:46:08 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:46:11 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:46:22 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:46:22 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:46:41 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:46:42 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:46:58 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:01 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:02 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:03 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:07 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:13 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:47:17 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:18 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:19 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:20 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:22 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:23 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:24 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:24 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:25 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:44 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:47:55 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:48:09 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:48:12 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:48:16 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:48:17 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:48:17 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:48:18 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:48:18 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:48:46 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:48:54 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:49:02 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:49:20 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:50:39 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:50:40 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:51:06 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:51:09 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:51:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:51:28 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:53:24 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:53:40 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:53:41 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:55:00 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:55:03 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:55:05 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:55:17 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:55:19 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:55:21 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 151
+[09-Apr-2015 06:55:53 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:56:04 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:56:06 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:56:08 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:56:14 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:56:25 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:56:47 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:57:31 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:57:55 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:58:12 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:58:19 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:58:33 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:58:34 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 06:58:44 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 174
+[09-Apr-2015 07:06:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 86
+[09-Apr-2015 07:28:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 716
+[09-Apr-2015 07:36:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 36
+[09-Apr-2015 07:36:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 36
+[09-Apr-2015 07:36:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 36
+[09-Apr-2015 07:36:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 36
+[09-Apr-2015 07:46:35 UTC] PHP Fatal error:  Cannot redeclare Spotch::accept_request() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 862
+[09-Apr-2015 07:47:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 864
+[09-Apr-2015 07:47:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 864
+[09-Apr-2015 07:47:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 864
+[10-Apr-2015 03:58:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 284
+[10-Apr-2015 06:17:36 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 325
+[10-Apr-2015 06:18:04 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_other_team() in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 325
+[10-Apr-2015 07:08:52 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 911
+[10-Apr-2015 07:08:54 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 911
+[10-Apr-2015 07:09:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 911
+[10-Apr-2015 07:09:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 822
+[10-Apr-2015 07:16:19 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/featheringrey/public_html/spotch/application/views/includes/footer.php on line 326
+[10-Apr-2015 07:17:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/featheringrey/public_html/spotch/application/views/includes/footer.php on line 326
+[13-Apr-2015 02:13:27 UTC] PHP Fatal error:  Cannot use assign-op operators with overloaded objects nor string offsets in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 242
+[13-Apr-2015 02:41:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 253
+[13-Apr-2015 04:48:56 UTC] CSRF state token does not match one provided.
+[13-Apr-2015 06:18:45 UTC] PHP Parse error:  syntax error, unexpected ''" disabled><i class="fa ' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 286
+[14-Apr-2015 01:22:06 UTC] CSRF state token does not match one provided.
+[01-May-2015 07:06:54 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_games_announcemnt() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 110
+[01-May-2015 07:22:36 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:27:22 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:28:52 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:29:42 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:30:18 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:30:51 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:32:34 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:32:43 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:34:19 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:34:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:34:51 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:34:56 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:35:45 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:39:04 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:39:45 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:40:50 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:41:22 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:44:04 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:45:30 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:45:48 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:46:55 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:47:49 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:48:44 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:49:51 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:52:13 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:53:38 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:55:24 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 07:58:00 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 802
+[01-May-2015 08:04:43 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 553
+[01-May-2015 08:05:00 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 553
+[01-May-2015 08:05:01 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 553
+[01-May-2015 08:05:03 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 553
+[01-May-2015 08:05:06 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 553
+[01-May-2015 08:05:08 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 553
+[01-May-2015 08:05:21 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 553
+[01-May-2015 08:05:56 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 553
+[01-May-2015 08:09:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 151
+[01-May-2015 08:12:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 302
+[01-May-2015 08:17:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 302
+[08-May-2015 05:23:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 318
+[08-May-2015 05:24:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 103
+[08-May-2015 05:24:37 UTC] PHP Fatal error:  Cannot use assign-op operators with overloaded objects nor string offsets in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 130
+[08-May-2015 05:24:41 UTC] PHP Fatal error:  Cannot use assign-op operators with overloaded objects nor string offsets in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 130
+[08-May-2015 05:26:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 103
+[08-May-2015 05:30:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 792
+[08-May-2015 05:43:48 UTC] CSRF state token does not match one provided.
+[08-May-2015 05:45:14 UTC] CSRF state token does not match one provided.
+[08-May-2015 05:46:19 UTC] CSRF state token does not match one provided.
+[08-May-2015 05:46:20 UTC] CSRF state token does not match one provided.
+[08-May-2015 05:52:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 160
+[08-May-2015 06:01:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 188
+[08-May-2015 06:02:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 189
+[08-May-2015 06:03:07 UTC] PHP Parse error:  syntax error, unexpected ''"><i class="fa fa-bolt"></i> ' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 318
+[08-May-2015 06:03:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 188
+[08-May-2015 06:18:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 1002
+[08-May-2015 06:19:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 230
+[08-May-2015 06:22:33 UTC] PHP Parse error:  syntax error, unexpected ''<div class="col-md-2"><button' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 917
+[08-May-2015 06:22:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 277
+[11-May-2015 05:59:33 UTC] CSRF state token does not match one provided.
+[11-May-2015 05:59:34 UTC] CSRF state token does not match one provided.
+[11-May-2015 05:59:36 UTC] CSRF state token does not match one provided.
+[11-May-2015 06:43:34 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_all_scores() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 397
+[11-May-2015 07:15:11 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_active_games_per_team() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 397
+[11-May-2015 07:29:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 87
+[12-May-2015 02:30:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 237
+[12-May-2015 02:30:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 656
+[12-May-2015 02:32:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 179
+[12-May-2015 03:58:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 94
+[12-May-2015 04:00:02 UTC] PHP Parse error:  syntax error, unexpected ''<div class="col-md-2"><button' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 287
+[12-May-2015 05:18:22 UTC] CSRF state token does not match one provided.
+[12-May-2015 05:19:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:19:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:19:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:19:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:20:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:20:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:20:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:20:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:20:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:22:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:22:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 65
+[12-May-2015 05:22:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 66
+[12-May-2015 05:22:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 66
+[12-May-2015 05:22:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 66
+[12-May-2015 05:22:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 66
+[12-May-2015 05:22:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 66
+[12-May-2015 05:23:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 289
+[12-May-2015 05:24:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 162
+[12-May-2015 05:37:53 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_participant_per_game_2() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 690
+[12-May-2015 06:49:34 UTC] PHP Fatal error:  Call to a member function get_user() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 326
+[12-May-2015 06:52:30 UTC] CSRF state token does not match one provided.
+[12-May-2015 06:52:37 UTC] CSRF state token does not match one provided.
+[12-May-2015 06:57:40 UTC] CSRF state token does not match one provided.
+[12-May-2015 06:57:48 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:03:25 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:03:31 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:07:18 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:07:26 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:18:54 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:19:00 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:19:29 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:19:32 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:20:02 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:32:32 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:33:08 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:33:24 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:36:47 UTC] CSRF state token does not match one provided.
+[12-May-2015 07:46:27 UTC] PHP Parse error:  syntax error, unexpected ''<div cl' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 153
+[13-May-2015 06:14:53 UTC] CSRF state token does not match one provided.
+[13-May-2015 06:27:04 UTC] CSRF state token does not match one provided.
+[13-May-2015 07:11:08 UTC] CSRF state token does not match one provided.
+[14-May-2015 02:28:02 UTC] CSRF state token does not match one provided.
+[14-May-2015 02:28:03 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 672
+[14-May-2015 02:28:07 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 672
+[14-May-2015 02:28:14 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 672
+[14-May-2015 02:28:17 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 672
+[14-May-2015 02:28:17 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 672
+[14-May-2015 02:42:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 216
+[14-May-2015 02:42:55 UTC] CSRF state token does not match one provided.
+[14-May-2015 02:55:42 UTC] PHP Parse error:  syntax error, unexpected ''use' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 181
+[14-May-2015 05:41:48 UTC] CSRF state token does not match one provided.
+[14-May-2015 06:23:35 UTC] CSRF state token does not match one provided.
+[14-May-2015 06:24:00 UTC] PHP Fatal error:  Call to undefined method Spotch_model::get_games_members_per_user() in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 562
+[14-May-2015 07:16:15 UTC] CSRF state token does not match one provided.
+[14-May-2015 07:46:46 UTC] CSRF state token does not match one provided.
+[14-May-2015 08:07:42 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 951
+[14-May-2015 08:09:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 184
+[14-May-2015 08:09:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 410
+[14-May-2015 08:17:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[14-May-2015 08:17:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 104
+[14-May-2015 08:17:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 408
+[14-May-2015 08:36:47 UTC] PHP Parse error:  syntax error, unexpected ''<button class="btn btn-block ' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 739
+[14-May-2015 08:43:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 342
+[15-May-2015 07:15:59 UTC] CSRF state token does not match one provided.
+[15-May-2015 08:41:12 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[15-May-2015 08:42:22 UTC] PHP Parse error:  syntax error, unexpected ''<button class="btn btn-block ' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 677
+[15-May-2015 08:42:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 90
+[15-May-2015 08:43:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 91
+[17-May-2015 13:59:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/featheringrey/public_html/spotch/application/views/includes/footer.php on line 317
+[17-May-2015 14:14:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 86
+[17-May-2015 14:26:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 118
+[17-May-2015 14:26:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 118
+[17-May-2015 14:26:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 118
+[17-May-2015 14:26:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 118
+[17-May-2015 14:37:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 327
+[18-May-2015 01:29:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/featheringrey/public_html/spotch/application/views/includes/header.php on line 151
+[18-May-2015 01:29:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/featheringrey/public_html/spotch/application/views/includes/header.php on line 151
+[18-May-2015 01:29:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/featheringrey/public_html/spotch/application/views/includes/header.php on line 151
+[18-May-2015 01:29:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/featheringrey/public_html/spotch/application/views/includes/header.php on line 151
+[18-May-2015 06:34:12 UTC] CSRF state token does not match one provided.
+[18-May-2015 07:58:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/views/includes/footer.php on line 167
+[18-May-2015 08:10:11 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[18-May-2015 08:18:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 473
+[18-May-2015 08:28:58 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[18-May-2015 08:28:58 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[18-May-2015 08:28:58 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[18-May-2015 08:55:41 UTC] CSRF state token does not match one provided.
+[18-May-2015 08:57:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 467
+[18-May-2015 08:58:30 UTC] PHP Fatal error:  Class 'Spotch_model' not found in /home/featheringrey/public_html/spotch/system/core/Loader.php on line 303
+[18-May-2015 08:59:02 UTC] PHP Parse error:  syntax error, unexpected ''<bu' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 783
+[18-May-2015 08:59:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 148
+[19-May-2015 01:44:14 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 128
+[19-May-2015 01:46:49 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 128
+[19-May-2015 01:49:19 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1129
+[19-May-2015 02:09:28 UTC] CSRF state token does not match one provided.
+[19-May-2015 02:48:31 UTC] PHP Fatal error:  Call to undefined method User_model::validate_emailaddress() in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 149
+[19-May-2015 02:56:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 294
+[19-May-2015 05:43:47 UTC] PHP Parse error:  syntax error, unexpected ''<img s' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 329
+[19-May-2015 05:43:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:44:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:44:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:44:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:44:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:44:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:44:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 05:45:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1040
+[19-May-2015 07:07:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/views/register.php on line 92
+[19-May-2015 07:48:31 UTC] CSRF state token does not match one provided.
+[19-May-2015 07:57:53 UTC] CSRF state token does not match one provided.
+[19-May-2015 08:06:19 UTC] CSRF state token does not match one provided.
+[19-May-2015 08:07:50 UTC] CSRF state token does not match one provided.
+[20-May-2015 05:48:06 UTC] CSRF state token does not match one provided.
+[20-May-2015 08:15:36 UTC] CSRF state token does not match one provided.
+[21-May-2015 01:27:58 UTC] CSRF state token does not match one provided.
+[21-May-2015 02:35:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 144
+[21-May-2015 02:48:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/featheringrey/public_html/spotch/application/controllers/spotch.php on line 487
+[21-May-2015 04:08:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 191
+[21-May-2015 04:09:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 392
+[21-May-2015 04:11:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 304
+[21-May-2015 04:17:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 440
+[21-May-2015 04:19:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 442
+[21-May-2015 08:15:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 805
+[21-May-2015 08:24:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 505
+[21-May-2015 08:24:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 505
+[21-May-2015 08:25:10 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:25:23 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:25:43 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:26:14 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:26:23 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:26:45 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:26:54 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:27:01 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:27:04 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:27:12 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:28:14 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:28:40 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:29:55 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:30:37 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:31:32 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:31:41 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:31:41 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:34:17 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:34:21 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:34:57 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:35:01 UTC] PHP Fatal error:  Call to undefined method CI_Session::userrdata() in /home/featheringrey/public_html/spotch/application/views/account.php on line 204
+[21-May-2015 08:36:26 UTC] PHP Parse error:  syntax error, unexpected '' <li >' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 42
+[21-May-2015 08:38:12 UTC] CSRF state token does not match one provided.
+[21-May-2015 08:38:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 186
+[21-May-2015 08:39:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 831
+[21-May-2015 08:40:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 711
+[21-May-2015 08:41:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 187
+[21-May-2015 08:43:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 918
+[21-May-2015 08:44:24 UTC] CSRF state token does not match one provided.
+[21-May-2015 08:46:39 UTC] PHP Parse error:  syntax error, unexpected ''<button class="btn btn-' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 751
+[21-May-2015 08:48:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 590
+[21-May-2015 08:49:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 920
+[21-May-2015 08:51:54 UTC] PHP Fatal error:  Call to undefined method Spotch_model::check_game_status() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 112
+[21-May-2015 08:57:16 UTC] PHP Fatal error:  Call to undefined method Spotch_model::check_game_status() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 112
+[21-May-2015 08:58:42 UTC] PHP Fatal error:  Call to undefined method Spotch_model::check_game_status() in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 112
+[21-May-2015 08:59:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 87
+[21-May-2015 09:11:40 UTC] CSRF state token does not match one provided.
+[21-May-2015 16:34:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 440
+[21-May-2015 16:51:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 1036
+[21-May-2015 17:10:08 UTC] CSRF state token does not match one provided.
+[22-May-2015 03:21:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 189
+[22-May-2015 03:23:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 87
+[22-May-2015 03:32:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 437
+[22-May-2015 03:34:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/models/spotch_model.php on line 392
+[22-May-2015 03:40:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 87
+[22-May-2015 03:44:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 87
+[22-May-2015 03:51:32 UTC] PHP Parse error:  syntax error, unexpected ''<button class="btn btn-block' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 731
+[22-May-2015 04:00:56 UTC] PHP Parse error:  syntax error, unexpected '' <li >' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 42
+[22-May-2015 04:09:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 433
+[22-May-2015 04:10:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 188
+[22-May-2015 04:16:44 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 129
+[22-May-2015 04:16:46 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 129
+[22-May-2015 04:16:48 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 129
+[22-May-2015 04:16:50 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 129
+[22-May-2015 04:16:52 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 129
+[22-May-2015 04:17:32 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 129
+[22-May-2015 04:18:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 87
+[22-May-2015 04:19:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 292
+[22-May-2015 04:20:05 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 1154
+[22-May-2015 04:20:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 581
+[22-May-2015 04:38:39 UTC] PHP Parse error:  syntax error, unexpected '' <li >' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 42
+[22-May-2015 04:48:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 126
+[22-May-2015 04:48:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 126
+[22-May-2015 04:48:22 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 126
+[22-May-2015 04:48:22 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 126
+[22-May-2015 04:48:28 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 126
+[22-May-2015 04:49:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 126
+[22-May-2015 04:49:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 126
+[22-May-2015 04:51:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 380
+[22-May-2015 04:56:36 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 127
+[22-May-2015 04:56:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 127
+[22-May-2015 04:56:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 127
+[22-May-2015 04:56:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 736
+[22-May-2015 05:01:05 UTC] PHP Parse error:  syntax error, unexpected ''Your Nam' (T_ENCAPSED_AND_WHITESPACE) in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 915
+[22-May-2015 05:04:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 195
+[22-May-2015 05:10:50 UTC] PHP Parse error:  syntax error, unexpected ''part' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/featheringrey/public_html/spotch/application/controllers/games.php on line 576
+[25-May-2015 03:52:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1155
+[25-May-2015 05:04:17 UTC] CSRF state token does not match one provided.
+[25-May-2015 05:57:24 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/featheringrey/public_html/spotch/application/views/register.php on line 29
+[25-May-2015 05:57:32 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/featheringrey/public_html/spotch/application/views/register.php on line 29
+[25-May-2015 05:57:35 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/featheringrey/public_html/spotch/application/views/register.php on line 29
+[25-May-2015 05:57:38 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/featheringrey/public_html/spotch/application/views/register.php on line 29
+[25-May-2015 05:57:51 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/featheringrey/public_html/spotch/application/views/register.php on line 29
+[25-May-2015 06:00:50 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/views/register.php on line 15
+[25-May-2015 06:00:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/featheringrey/public_html/spotch/application/views/register.php on line 15
+[27-May-2015 01:35:37 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:38 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:39 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:39 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:40 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:40 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:41 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:42 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:44 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:45 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:46 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:47 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:35:48 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 164
+[27-May-2015 01:46:05 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING) in /home/featheringrey/public_html/spotch/application/controllers/login.php on line 139
+[27-May-2015 07:09:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1245
+[27-May-2015 07:11:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 101
+[27-May-2015 07:12:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 926
+[27-May-2015 07:15:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 101
+[27-May-2015 07:18:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 216
+[27-May-2015 07:19:46 UTC] PHP Parse error:  syntax error, unexpected ''team_prefectu' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 1217
+[27-May-2015 07:22:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 102
+[27-May-2015 07:22:08 UTC] PHP Parse error:  syntax error, unexpected ''game_lists' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/featheringrey/public_html/spotch/application/controllers/teams.php on line 461
+[28-May-2015 01:05:01 UTC] CSRF state token does not match one provided.
+[28-May-2015 01:43:10 UTC] CSRF state token does not match one provided.
+[28-May-2015 07:58:38 UTC] CSRF state token does not match one provided.
+[02-Jun-2015 05:06:04 UTC] CSRF state token does not match one provided.
+[02-Jun-2015 05:42:29 UTC] CSRF state token does not match one provided.
+[04-Jun-2015 01:23:14 UTC] CSRF state token does not match one provided.
+[05-Jun-2015 07:30:21 UTC] CSRF state token does not match one provided.
+[06-Jun-2015 14:55:22 UTC] CSRF state token does not match one provided.
+[08-Jun-2015 05:37:06 UTC] CSRF state token does not match one provided.
+[10-Jun-2015 02:10:16 UTC] CSRF state token does not match one provided.
+[15-Jun-2015 08:06:03 UTC] PHP Warning:  Unterminated comment starting line 31 in /home/featheringrey/public_html/spotch_v2/application/config/config.php on line 31
+[10-Jul-2015 07:19:29 UTC] PHP Fatal error:  Call to undefined method Location_model::get_prefectures() in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 18
+[10-Jul-2015 07:19:30 UTC] PHP Fatal error:  Call to undefined method Location_model::get_prefectures() in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 18
+[10-Jul-2015 07:20:55 UTC] PHP Fatal error:  Call to undefined method Location_model::get_prefectures() in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 18
+[10-Jul-2015 07:20:59 UTC] PHP Fatal error:  Call to undefined method Location_model::get_prefectures() in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 18
+[10-Jul-2015 07:22:32 UTC] PHP Fatal error:  Call to undefined method Location_model::get_prefectures() in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 18
+[10-Jul-2015 07:22:39 UTC] PHP Fatal error:  Call to undefined method Location_model::get_prefectures() in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 18
+[10-Jul-2015 07:39:47 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:39:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:39:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:40:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:41:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:41:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:42:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:42:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:42:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:42:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:43:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:43:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:44:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:44:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:47:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:47:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:47:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:47:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:48:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25
+[10-Jul-2015 07:48:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/featheringrey/public_html/spotch_v2/application/controllers/locations.php on line 25

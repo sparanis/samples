@@ -1,0 +1,388 @@
+/*media query*/
+
+/*---------------------mobile-----------------------*/
+
+@media screen and (max-width: 320px){
+
+	/*index*/
+
+	.parallaxPrce{
+		font-size: 30px;
+	}
+
+	/*myaccount*/
+
+	.section-title-inner{
+		font-size: large;
+	}
+	.user-greeting{
+		border-right: 0px !important;
+	}
+	.u-stat{
+		font-size: 14px !important;
+	}
+	.user-greeting h1{
+		font-size: large !important;
+	}
+	.thumbnail a{
+		font-size: 10px !important;
+	}
+	.myAccountList li a i{
+		font-size: 30px;
+	}
+	.myAccountList .thumbnail{
+		height: 80px !important;
+	}
+	.team-page .a-box .a-type .game{
+		min-height: 0px !important;
+	}
+	.team-page .a-box .a-type{
+		border-left: 0px !important;
+		border-top: 10px solid #eb5e58 !important;
+	}
+	.team-page .a-box .a-announcement{
+		border-left: 0px !important;
+		border-top: 10px solid #8d9fac !important;
+	}
+	.team-page .btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active{
+		margin-bottom: 10px;
+	}
+	.game-log table{
+		font-size: 8px !important;
+		table-layout:fixed;
+		width: 100%;
+	}
+	.table > thead > tr > th{
+		font-size: 7px !important;
+	}
+
+	/*find games*/
+
+	.find-games .team-page .a-box .a-type .game{
+		min-height: 0px !important;
+		border-left: 0px !important;
+	}
+	.find-games .team-page .btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active{
+		margin-bottom: 10px;
+	}
+	.team-page .a-box .a-type .game h1{
+	  margin-top: 0px;
+	}
+
+	/*team details*/
+	.team-page .team-image img.level-image{
+		margin-top: -20px !important;
+		width: 60px !important;
+	}
+	.team-page .product-title{
+		font-size: large !important;
+	}
+	.team-page h1{
+		font-size: large !important;
+	}
+	.team-page .row .team-img-holder{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.team-page .row .detail-box, .team-page .row .stat-box{
+		padding-left: 10px !important;
+		padding-right: 10px !important;
+	}
+	.team-page .stat-box p{
+		font-size: small;
+	}
+	.team-page .btn-block + .btn-block{
+		margin-bottom: 10px;
+	}
+
+	/*game details*/
+
+	.detail-box, .stat-box {
+	 padding: 0px 0px 0px 0px !important; 
+	}
+	.detail-box{
+		border-right: 0px !important;
+	}
+	.map_canvas2{
+		min-height: 200px !important;
+	}
+	.game-host .team-level img{
+		width: 40px !important;
+		margin-top: -13%;
+		position: absolute;
+		margin-left: 80%;
+		display: block;
+		text-align: right;
+	}
+
+}
+
+/*---------------------medium mobile--------------------*/
+
+@media(min-width: 321px) and (max-width: 480px){
+
+	/*index*/
+
+	.parallaxPrce{
+		font-size: 30px;
+	}
+	.w100 .col-md-6 div{
+		padding-top: 0px !important;
+	}
+
+	/*myaccount*/
+
+	.section-title-inner{
+		font-size: large;
+	}
+	.user-greeting{
+		border-right: 0px !important;
+	}
+	.user-greeting h1{
+		font-size: large;
+	}
+	.myAccountList .thumbnail{
+		height: 100px !important;
+	}
+	.team-page .a-box .a-type .game{
+		min-height: 0px !important;
+	}
+	.team-page .a-box .a-type{
+		border-left: 0px !important;
+		border-top: 10px solid #eb5e58 !important;
+	}
+	.team-page .a-box .a-announcement{
+		border-left: 0px !important;
+		border-top: 10px solid #8d9fac !important;
+	}
+	.team-page .btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active{
+		margin-bottom: 10px;
+	}
+	.game-log table{
+		font-size: 10px !important;
+		table-layout:fixed;
+		width: 100%;
+	}
+	.table > thead > tr > th{
+		font-size: 8px !important;
+	}
+
+	/*find games*/
+
+	.find-games .team-page .a-box .a-type .game{
+		min-height: 0px !important;
+		border-left: 0px !important;
+	}
+	.find-games .team-page .btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active{
+		margin-bottom: 10px;
+	}
+	.team-page .a-box .a-type .game h1{
+	  margin-top: 0px;
+	}
+
+	/*team details*/
+
+	.team-page .team-image img.level-image{
+		margin-top: -20px !important;
+		width: 60px !important;
+	}
+	.team-page .product-title{
+		font-size: large !important;
+	}
+	.team-page h1{
+		font-size: large !important;
+	}
+	.team-page .row .team-img-holder{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.team-page .row .detail-box, .team-page .row .stat-box{
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+	.team-page .stat-box p{
+		font-size: small;
+	}
+	.team-page .btn-block + .btn-block{
+		margin-bottom: 10px;
+	}
+
+	/*game details*/
+
+	.detail-box, .stat-box {
+	 padding: 0px 0px 0px 0px !important; 
+	}
+	.detail-box{
+		border-right: 0px !important;
+	}
+	.map_canvas2{
+		min-height: 200px !important;
+	}
+	.game-host .team-level img{
+		width: 40px !important;
+		margin-top: -10%;
+		position: absolute;
+		margin-left: 80%;
+		display: block;
+		text-align: right;
+	}
+
+}
+
+@media(min-width: 321px) and (orientation: landscape){
+
+
+}
+
+/*---------------------large / tablet----------------------*/
+
+@media(min-width: 480px) and (max-width: 769px){
+
+	/*index*/
+
+	.w100 .col-md-6 img{
+		padding-top: 5% !important;
+		margin:0 auto;
+	}
+
+	.w100 .col-md-6 div{
+		padding-top: 5% !important;
+	}
+
+	/*myaccount*/
+
+	.section-title-inner{
+		font-size: large;
+	}
+	.user-greeting{
+		border-right: 0px !important;
+	}
+	.user-greeting h1{
+		font-size: large;
+	}
+	.myAccountList .thumbnail{
+		height: 100px !important;
+	}
+	.team-page .a-box .a-type .game{
+		min-height: 0px !important;
+	}
+	.team-page .a-box .a-type{
+		border-left: 0px !important;
+		border-top: 10px solid #eb5e58 !important;
+	}
+	.team-page .a-box .a-announcement{
+		border-left: 0px !important;
+		border-top: 10px solid #8d9fac !important;
+	}
+	.team-page .btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active{
+		margin-bottom: 10px;
+	}
+
+	/*find games*/
+
+	.find-games .team-page .a-box .a-type .game{
+		min-height: 0px !important;
+		border-left: 0px !important;
+	}
+	.find-games .team-page .btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active{
+		margin-bottom: 10px;
+	}
+
+}
+
+@media(min-width: 480px) and (orientation: landscape){
+
+	
+}
+
+
+/*------------------------tablet----------------------*/
+@media(min-width: 770px) and (max-width: 959px){
+
+	/*index*/
+
+	.w100 .col-md-6 img{
+		padding-top: 5% !important;
+		margin:0 auto;
+	}
+
+	.w100 .col-md-6 div{
+		padding-top: 5% !important;
+	}
+
+	/*myaccount*/
+
+	.section-title-inner{
+		font-size: large;
+	}
+	.user-greeting{
+		border-right: 0px !important;
+	}
+	.user-greeting h1{
+		font-size: large;
+	}
+	.myAccountList .thumbnail{
+		height: 100px !important;
+	}
+	.team-page .a-box .a-type .game{
+		min-height: 0px !important;
+	}
+	.team-page .a-box .a-type{
+		border-left: 0px !important;
+		border-top: 10px solid #eb5e58 !important;
+	}
+	.team-page .a-box .a-announcement{
+		border-left: 0px !important;
+		border-top: 10px solid #8d9fac !important;
+	}
+	.team-page .btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active{
+		margin-bottom: 10px;
+	}
+
+	/*find games*/
+
+	.find-games .team-page .a-box .a-type .game{
+		min-height: 0px !important;
+		border-left: 0px !important;
+	}
+	.find-games .team-page .btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active{
+		margin-bottom: 10px;
+	}
+
+}
+
+@media(min-width: 769px) and (orientation: landscape){
+
+	.u-stat{
+		font-size: 11px !important;
+	}
+}
+
+/*-----------------------desktop----------------------*/
+@media(min-width: 960px){
+
+	
+}
+
+@media(min-width: 960px) and (orientation: landscape){
+
+	.u-stat{
+		font-size: 11px !important;
+	}
+	/*find games*/
+	.game_wrapper .a-box .col-md-2{
+		padding-left: 0px;
+	}
+	.game_wrapper .a-box .col-md-2 button{
+		font-size: small;
+	}
+
+}
+
+@media(min-width: 1103px){
+
+	.u-stat{
+		font-size: 16px !important;
+	}
+
+}
